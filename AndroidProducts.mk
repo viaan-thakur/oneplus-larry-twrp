@@ -9,9 +9,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/twrp_OP5958L1.mk
+    $(LOCAL_DIR)/pb_OP5958L1.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_OP5958L1-user \
-    twrp_OP5958L1-userdebug \
-    twrp_OP5958L1-eng
+    pb_OP5958L1-user \
+    pb_OP5958L1-userdebug \
+    pb_OP5958L1-eng
